@@ -5,7 +5,7 @@
 				<div class="promo-container">
 					<div class="promo-text">
 						<h3>McMillan Exterior & Interior Professionals</h3>
-						<p>Family Owned And Opperated For Over 30 Years!</p>
+						<p>Family Owned And Operated For Over 30 Years!</p>
 					</div>
 				</div>
 			</div>
